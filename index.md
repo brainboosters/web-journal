@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Home"
+permalink: /
 ---
 # United Geekdom's web journal
 **Hello world!** This is the new web journal of my site. I will log my changes and describe other programming projects here.
