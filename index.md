@@ -2,7 +2,7 @@
 layout: default
 title: "Home"
 ---
-<nav>
+<nav markdown="1">
   {% for item in site.data.nav %}
     <a href="{{ item.link }}" {% if page.url == item.link %}class="active"{% endif %}>{{ item.name }}</a>
   {% endfor %}
