@@ -1,5 +1,5 @@
 theme: jekyll-theme-hacker
-title: "United Geekdom web journal"
+title: "United Geekdom blog"
 webrick:
   headers:
     My-Header: "<a href='/index.html'>Home</a> | <a href='/games/'>Games</a> | <a href='/charnimation/'>CHARnimation</a> | <a href='/archive/'>Archive</a>"
