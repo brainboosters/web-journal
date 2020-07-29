@@ -3,9 +3,12 @@ layout: default
 title: "Home"
 ---
 <div class="nav">
+<center>
 {% for item in site.data.nav %}
-  <a href="{{ item.link }}">{{ item.name }}</a>
+  <a href="{{ item.link }}">{{ item.name }}</a> |
 {% endfor %}
+  <a href="#">Blog</a>
+</center>
 </div>
 <hr>
 #  United Geekdom's web journal
