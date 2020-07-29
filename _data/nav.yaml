@@ -1,0 +1,14 @@
+- name: Home
+  link: /
+- name: 2020 calendar
+  link: /2020calendar/jan.html
+- name: Games
+  link: /games/
+- name: CHARnimation
+  link: /charnimation/
+- name: Blog
+  link: /web-journal/
+- name: Archive
+  link: /archive/
+- name: Other works
+  link: /otherworks.html
