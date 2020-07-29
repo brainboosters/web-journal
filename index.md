@@ -2,9 +2,9 @@
 layout: default
 title: "Home"
 ---
-<div class="nav" markdown="1">
+<div class="nav">
 {% for item in site.data.nav %}
-  [item.name](item.link)
+  <a href="{{ item.link }}">{{ item.name }}</a>
 {% endfor %}
 </div>
 #  United Geekdom's web journal
